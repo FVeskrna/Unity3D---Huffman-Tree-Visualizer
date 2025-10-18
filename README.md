@@ -12,3 +12,5 @@ The second scene displays the visualized tree and table containing characters an
 To handle larger trees that would not fit in the window, user can drag and scroll through the tree.
 ![image](https://user-images.githubusercontent.com/99544664/160110715-d3985ab7-adf6-421f-8c70-f3d3e3aa6a0b.png)
 
+https://youtu.be/Rp1lLuDQqsY
+
